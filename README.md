@@ -27,7 +27,6 @@ Passionate about building clean and user-friendly web interfaces
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-green?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ---
 
